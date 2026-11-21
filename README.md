@@ -2,7 +2,7 @@
 **USE OF LABVIEW 2013 TO CONSTRUCT A SOPHISTICATED SMOKE AND HEAT DETECTION SYSTEM**
 
 <p align="center">
-  <img src="https://github.com/BroadbentT/ROGUE-AGENT/blob/main/Rogue%20Agent%20Logo.png">
+  <img src="https://github.com/BroadbentT/FIREALARM2/blob/master/Industrial%20Fire%20Alarm%20Monitoring%20System.png">
 </p>
 
 | LANGUAGE | FILENAME           | MD5 Hash                         |
