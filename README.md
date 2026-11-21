@@ -1,5 +1,9 @@
 # FIRE ALARM SYSTEM
-## USE OF LABVIEW 2013 TO CONSTRUCT A SOPHISTICATED SMOKE AND HEAT DETECTION SYSTEM.
+**USE OF LABVIEW 2013 TO CONSTRUCT A SOPHISTICATED SMOKE AND HEAT DETECTION SYSTEM**
+
+<p align="center">
+  <img src="https://github.com/BroadbentT/ROGUE-AGENT/blob/main/Rogue%20Agent%20Logo.png">
+</p>
 
 | LANGUAGE | FILENAME           | MD5 Hash                         |
 |------    |------              | -------                          |
